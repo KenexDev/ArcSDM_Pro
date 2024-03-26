@@ -1,7 +1,6 @@
 <img src="https://github.com/KenexDev/ArcSDM_Pro/blob/master/CDPhoto.jpg">
 
 # Workflows for using ArcSDM in ArcGIS Pro
-=======
 
 ## Notes:
 
